@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-enriquez-navbar/static/css/main.52b4bf4a.css",
+    "main.js": "/ws101-enriquez-navbar/static/js/main.bc2a596a.js",
+    "index.html": "/ws101-enriquez-navbar/index.html",
+    "main.52b4bf4a.css.map": "/ws101-enriquez-navbar/static/css/main.52b4bf4a.css.map",
+    "main.bc2a596a.js.map": "/ws101-enriquez-navbar/static/js/main.bc2a596a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b4bf4a.css",
+    "static/js/main.bc2a596a.js"
+  ]
+}
